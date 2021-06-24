@@ -11,7 +11,7 @@ class Contact extends Component{
 		      </div>
 		    </div>
 		    <div className="row">
-		      <div className="col-md-6 animate-box" data-animate-effect="fadeInLeft">
+		      <div className="col-md-6 animate-box" data-animate-effect="fadeInLeft" style={{display:'inline-block'}}>
 		        <div className="colorlib-feature colorlib-feature-sm">
 		          <div className="colorlib-icon">
 		            <i className="icon-mail" />

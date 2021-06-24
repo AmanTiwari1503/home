@@ -325,7 +325,7 @@ figure figcaption {
   height: 100%;
 }
 #colorlib-hero .flexslider .flex-control-nav {
-  bottom: 20px;
+  bottom: 40px;
   z-index: 1000;
   left: 20px;
   float: left;
