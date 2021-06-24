@@ -100,6 +100,7 @@ figure figcaption {
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
+  height: 100vh;
 }
 @media screen and (max-width: 960px) {
   #colorlib-aside {
