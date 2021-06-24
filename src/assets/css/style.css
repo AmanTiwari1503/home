@@ -330,10 +330,6 @@ figure figcaption {
   left: 20px;
   float: left;
   width: auto; }
-@media screen and (max-width: 768px) {
-  #colorlib-hero .flexslider .flex-control-nav {
-    right: 20px;
-    top: 50%; } }
 #colorlib-hero .flexslider .flex-control-nav li {
   display: block;
   margin-bottom: 10px; }
